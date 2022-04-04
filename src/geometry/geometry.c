@@ -1,8 +1,9 @@
-#include "libgeo/circle.h"
+#include "libgeo/Read.h"
+#include <math.h>
 #include <stdio.h>
 
 int main()
 {
-    circle();
+    Read();
     return 0;
 }
